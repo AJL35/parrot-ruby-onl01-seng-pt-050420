@@ -5,4 +5,5 @@ end
 ;
 
 def parrot
-  
+  puts "pretty bird"
+end
